@@ -104,6 +104,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📬 Contact
 For queries, reach out via:
-- Email: your-email@example.com
+- Email: nitishyadav866@gmail.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 - GitHub: [Your Username](https://github.com/your-username)
